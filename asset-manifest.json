@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Obada88/project-rect.git/react/static/css/main.0a85edad.css",
-    "main.js": "/Obada88/project-rect.git/react/static/js/main.8429d7d7.js",
+    "main.js": "/Obada88/project-rect.git/react/static/js/main.c5be3ccc.js",
     "static/media/about-img.jpg": "/Obada88/project-rect.git/react/static/media/about-img.8478623e00681d806893.jpg",
     "static/media/blog-3.jpg": "/Obada88/project-rect.git/react/static/media/blog-3.f1510b42ab94b83d3e2f.jpg",
     "static/media/home-img-2.png": "/Obada88/project-rect.git/react/static/media/home-img-2.a0038f648659936526ff.png",
@@ -14,10 +14,10 @@
     "static/media/home-bg.jpg": "/Obada88/project-rect.git/react/static/media/home-bg.724bf7349a3d13c4bdd5.jpg",
     "index.html": "/Obada88/project-rect.git/react/index.html",
     "main.0a85edad.css.map": "/Obada88/project-rect.git/react/static/css/main.0a85edad.css.map",
-    "main.8429d7d7.js.map": "/Obada88/project-rect.git/react/static/js/main.8429d7d7.js.map"
+    "main.c5be3ccc.js.map": "/Obada88/project-rect.git/react/static/js/main.c5be3ccc.js.map"
   },
   "entrypoints": [
     "static/css/main.0a85edad.css",
-    "static/js/main.8429d7d7.js"
+    "static/js/main.c5be3ccc.js"
   ]
 }
